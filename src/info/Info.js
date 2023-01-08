@@ -36,7 +36,7 @@ export const info = {
     },
   ],
   socials: [],
-  bio: "안녕하세요.'열정적인 개발자'양한준입니다. 프론트엔드 개발자로 취업을 준비중 입니다! 잘부탁드립니다~",
+  bio: "안녕하세요.'열정적인 개발자'양한준입니다. 프론트엔드 개발자로 취업을 준비중 입니다! 잘부탁드립니다",
   skills: {
     proficientWith: ["javascript", "react", "html5", "css3"],
     exposedTo: ["nodejs", "python"],
@@ -68,12 +68,12 @@ export const info = {
     },
     {
       title: "Joom - 소켓통신 채팅 사이트",
-      live: "https://github.com/97970z/JOOM",
+      live: "https://socketchat.fly.dev/",
       source: "https://github.com/97970z/JOOM",
       image: mock2,
     },
     {
-      title: "크몽 - 프로랜서 경험 & 공부",
+      title: "크몽 - 프리랜서 경험 & 공부",
       live: "https://kmong.com/gig/411092",
       source: "https://kmong.com/gig/411092",
       image: mock3,
