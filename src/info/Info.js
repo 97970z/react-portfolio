@@ -36,10 +36,10 @@ export const info = {
     },
   ],
   socials: [],
-  bio: "안녕하세요.'열정적인 개발자'양한준입니다. 프론트엔드 개발자로 취업을 준비중 입니다! 잘부탁드립니다",
+  bio: "안녕하세요 '열정적인'개발자 양한준입니다. 풀스택 개발자를 꿈꾸며, 개발자로서 역량을 쌓고 있습니다.",
   skills: {
-    proficientWith: ["javascript", "react", "html5", "css3"],
-    exposedTo: ["nodejs", "python"],
+    proficientWith: ["javascript", "react", "python", "html5", "css3"],
+    exposedTo: ["nodejs", "django"],
   },
   hobbies: [
     {
