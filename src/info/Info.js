@@ -63,8 +63,8 @@ export const info = {
   portfolio: [
     {
       title: "HoH - 과제 해결 사이트",
-      live: "https://helper-of-homework.vercel.app/",
-      source: "https://github.com/97970z/HoH",
+      live: "http://homeworkhub.site/",
+      source: "https://github.com/97970z/hohClient",
       image: mock4,
     },
     {
