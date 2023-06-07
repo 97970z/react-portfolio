@@ -1,4 +1,4 @@
-@import "../variables.modules";
+@import '../variables.modules';
 
 footer {
   color: $dark;
@@ -6,18 +6,18 @@ footer {
 
 .dark {
   background-color: $dark;
-  color: $white;
+  color: $red;
   transition: all 400ms;
 
   a,
   i,
   li {
-    color: $white;
+    color: $red;
     transition: color 400ms;
   }
 
   a:visited {
-    color: $white;
+    color: $red;
   }
 
   footer {
